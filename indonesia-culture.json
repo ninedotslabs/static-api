@@ -1,0 +1,452 @@
+[
+    {
+        "name": "tari saman",
+        "origin": "aceh",
+        "description": "tarian ini ditampilkan untuk merayakan kelahiran nabi muhammad SAW.",
+        "picture": "https://upload.wikimedia.org/wikipedia/id/e/e2/Tari_rampai.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=TdqsJTcuFhY"
+    },
+    {
+        "name": "tari piring",
+        "origin": "minangkabau",
+        "description": "tari piring adalah tarian tradisional minangkabau yang menampilkan atraksi menggunakan piring",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Tari_Piring_di_Pesisir_Selatan.jpg/390px-Tari_Piring_di_Pesisir_Selatan.jpg",
+        "youtube-link": "https://youtu.be/1O_OYwnV6iw"
+    },
+    {
+        "name": "Tari Persembahan",
+        "origin": "Batam, Melayu, Kepulauan Riau",
+        "description": "Tari makan sirih (Persembahan) adalah salah satu tarian tradisional atau tarian klasik riau (melayu) yang umumnya dipentaskan untuk menyambut dan dipersembahkan untuk menghormati tamu negara / tamu agung yang datang.",
+        "picture": "https://cdn-2.tstatic.net/batam/foto/bank/images/tari-makan-sirih.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=W-q9NDOhaZk"
+    },
+    {
+        "name": "Kompang Rebana",
+        "origin": "Batam, Melayu, Kepulauan Riau",
+        "description": "Rebana adalah gendang berbentuk bundar dan pipih yang merupakan khas suku melayu. Bingkai berbentuk lingkaran terbuat dari kayu yang dibubut, dengan salah satu sisi untuk ditepuk berlapis kulit kambing.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/a/ad/COLLECTIE_TROPENMUSEUM_Enkelvellige_lijsttrom_met_rinkelschijven_TMnr_1032-2.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=E5wKD1z3CJk"
+    },
+    {
+        "name": "tari kecak",
+        "origin": "bali",
+        "description": "pertunjukan dramatari seni khas bali yang lebih utama menceritakan mengenai rmayana dan akan dimainkan terumatama oleh laki-laki",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kecak_Dance_1.jpg/375px-Kecak_Dance_1.jpg",
+        "youtube-link": "https://youtu.be/nr8lb0nj1XY"
+    },
+    {
+        "name": "tari bedana",
+        "origin": "lampung",
+        "description": "tari bedana merupakan salah satu tarian tarian tadisional dari daerah lampung, tari ini biasa dibawakan oleh pemuda pemudi lampung dalam acara tertentu sebagai ungkapan rasa gembira",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ15CkXehdixZazl6w2LPDsfn92EPxJV7yRIQ&usqp=CAU",
+        "youtube-link": "https://www.youtube.com/watch?v=-M2a8EqsYB0"
+    },
+    {
+        "name": "tari gantar",
+        "origin": "kallimantan",
+        "description": "tarian ini merupakan sebuah tarian tradisional asal kalimantan, gerakannya seperti orang yang sedang menanam padi. dalam tarian ini para penari menggunakan tongkat yang mempunyai arti sebagai kayu penumbuk yang disertai properti pendukung lainya seperti bamboo dan biji bijian yang memberikan gambaran seperti benih padi dan wadahnya",
+        "picture": "http://www.ragamseni.com/wp-content/uploads/2016/02/tari-gantar-300x225.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=j-qM_6Ak8Us"
+    },
+    {
+        "name": "tari kancet ledo",
+        "orgin": "kalimantan timur",
+        "description": "tari kancet biasa disebut dengan tari gong, merupakan tarian adat yang berasal dari kalimatan timur, tarian ini mengekspresikan mengenai lebutnya seorang wanita yang diperlihatkan melalui tariannya diatas gong dengan lemag lembut dan disertai dengan keseimbangan",
+        "picture": "http://www.ragamseni.com/wp-content/uploads/2016/02/tari-gong.jpg",
+        "yotube-link": "https://www.youtube.com/watch?v=X2AHKlNbZQk"
+    },
+    {
+        "name": "Tari Serimpi",
+        "origin": "Jawa Tengah",
+        "description": "Serimpi atau Srimpi adalah bentuk repertoar (penyajian) tari Jawa klasik dari tradisi kraton Kesultanan Mataram dan dilanjutkan pelestarian serta pengembangan sampai sekarang oleh empat istana pewarisnya di Jawa Tengah (Surakarta) dan Yogyakarta.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/2011-06-05_TTF_46.jpg/250px-2011-06-05_TTF_46.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=oeQiSEMITAo"
+    },
+    {
+        "name": "Tari Topeng Ireng",
+        "origin": "Jawa Tengah",
+        "description": "Topeng Ireng adalah salah satu kesenian tradisional yang berkembang di daerah Kabupaten Magelang, Jawa Tengah. Topeng Ireng yang juga dikenal sebagai kesenian Dayakan ini adalah bentuk tarian rakyat kreasi baru yang merupakan hasil metamorfosis dari kesenian Kubro Siswo.",
+        "picture": "https://upload.wikimedia.org/wikipedia/id/thumb/7/72/Topeng_Ireng.jpg/300px-Topeng_Ireng.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=Fchba2w-2yE"
+    },
+    {
+        "name": "Tari Saman",
+        "origin": "Aceh Tenggara",
+        "description": "Tari Saman adalah sebuah tarian Suku Gayo yang biasa ditampilkan untuk merayakan peristiwa-peristiwa penting dalam adat. Syair dalam tarian saman mempergunakan Bahasa Gayo. Selain itu biasanya tarian ini juga ditampilkan untuk merayakan kelahiran Nabi Muhammad SAW. Dalam beberapa literatur menyebutkan tari saman di Aceh didirikan dan dikembangkan oleh Syekh Saman, seorang ulama yang berasal dari Gayo di Aceh Tenggara. Tari saman ditetapkan UNESCO sebagai Daftar Representatif Budaya Takbenda Warisan Manusia dalam Sidang ke-6 Komite Antar-Pemerintah untuk Pelindungan Warisan Budaya Tak benda UNESCO di Bali, 24 November 2011.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Saman_dance.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=Ovrn3yBpSt4"
+    },
+    {
+        "name": "Kuda Lumping",
+        "origin": "Ponorogo, Jawa Timur",
+        "description": "Kuda lumping juga disebut jaran kepang atau jathilan adalah tarian tradisional Jawa yang menampilkan sekelompok prajurit tengah menunggang kuda.[1] Tarian ini berasal dari Ponorogo. Tarian ini menggunakan kuda yang terbuat dari bambu atau bahan lainnya yang di anyam dan dipotong menyerupai bentuk kuda, dengan dihiasi rambut tiruan dari tali plastik atau sejenisnya yang di gelung atau di kepang. Anyaman kuda ini dihias dengan cat dan kain beraneka warna. Tarian kuda lumping biasanya hanya menampilkan adegan prajurit berkuda, akan tetapi beberapa penampilan kuda lumping juga menyuguhkan atraksi kesurupan, kekebalan, dan kekuatan magis, seperti atraksi memakan beling dan kekebalan tubuh terhadap deraan pecut. Jaran Kepang merupakan bagian dari pagelaran tari reog. Meskipun tarian ini berasal dari Jawa, Indonesia, tarian ini juga diwariskan oleh kaum Jawa yang menetap di Sumatra Utara dan di beberapa daerah di luar Indonesia seperti di Malaysia, Suriname, Hong Kong, Jepang dan Amerika. ",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Kuda_Lumping_1.jpg/440px-Kuda_Lumping_1.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=XWZI20Q1xrg"
+    },
+    {
+        "name": "Suku Dayak",
+        "origin": "https://github.com/anugerah-fitrianto/list-culture-on-indonesia",
+        "description": "Rumah Panjang (rumah Radank) adalah salah satu rumah adat dari daerah Kalimantan Barat. Rumah Panjang adalah ciri khas dari masyarakat Dayak yang tinggal di daerah Kalimantan Barat. Hal ini dikarenakan rumah panjang adalah gambaran sosial kehidupan masyarakat Dayak di Kalimantan Barat",
+        "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnyero.id%2Frumah-adat-kalimantan-barat%2F&psig=AOvVaw0iLGluxrZ5nb6QAe1NRk1h&ust=1602400172203000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCBgfq7qewCFQAAAAAdAAAAABAR",
+        "youtube-link": "https://www.youtube.com/watch?v=nrUoYguNqPI"
+    },
+    {
+        "name": "Jaipongan",
+        "origin": "Indonesia",
+        "description": "Jaipongan adalah sebuah jenis tari pergaulan tradisional masyarakat Sunda, karawang, Jawa Barat, yang sangat populer di Indonesia.",
+        "picture": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/fixindonesia/2020/03/Untitled-111.png",
+        "youtube-link": "https://www.youtube.com/watch?v=rsmafqn5ZdQ"
+    },
+    {
+        "name": "Tari Saman",
+        "origin": "Aceh, Indonesia",
+        "description": "sebuah tarian Suku Gayo yang biasa ditampilkan untuk merayakan peristiwa-peristiwa penting dalam adat. Syair dalam tarian saman mempergunakan Bahasa Gayo. Selain itu biasanya tarian ini juga ditampilkan untuk merayakan kelahiran Nabi Muhammad SAW.",
+        "picture": "https://reportersatu.com/wp-content/uploads/2020/08/Menengok-Tari-Saman-tarain-Khas-Sumatera-Utara-1000x600.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=5m0nYPkAW_I"
+    },
+    {
+        "name": "Tari Tortor",
+        "origin": "Sumatera Utara",
+        "description": "Tortor Batak Toba adalah jenis tarian purba dari Batak Toba yang berasal dari Sumatra Utara yang meliputi daerah Tapanuli Utara, Humbang Hasundutan, Toba Samosir dan Samosir. Tortor merupakan tarian seremonial yang disajikan dengan musik gondang. Secara fisik, tortor merupakan tarian, namun makna yang lebih dari hanya sekadar gerakan-gerakannya menunjukkan tortor adalah sebuah media komunikasi, di mana melalui gerakan yang disajikan terjadi interaksi antara partisipan upacara.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Tor-Tor_Pose.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=CUSNI2LLtEo"
+    },
+    {
+        "name": "Kain Ulos",
+        "origin": "Sumatera Utara",
+        "description": "Ulos atau sering juga disebut kain ulos adalah salah satu busana khas Indonesia. Ulos secara turun temurun dikembangkan oleh masyarakat Batak, Sumatra Utara. Dari bahasa asalnya, ulos berarti kain. Cara membuat ulos serupa dengan cara membuat songket khas Palembang, yaitu menggunakan alat tenun bukan mesin. Warna dominan pada ulos adalah merah, hitam, dan putih yang dihiasi oleh ragam tenunan dari benang emas atau perak.",
+        "picture": "https://upload.wikimedia.org/wikipedia/id/f/f9/Jenis_ulos.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=ZXD61iGUiS8"
+    },
+    {
+        "name": "Tari Pakkarena",
+        "origin": "Bugis Makassar",
+        "description": "Tari Pakarena adalah tarian tradisional dari Sulawesi Selatan yang diiringi oleh 2 kepala drum dan sepasang instrument alat semacam suling",
+        "picture": "https://upload.wikimedia.org/wikipedia/id/d/db/Tari_Pakar%C3%A9na.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=iSvQCo2EwzU"
+    },
+    {
+        "name": "Tari Paduppa",
+        "origin": "Bugis",
+        "description": "Tarian ini bermakna penyambutan tamu yang datang berkunjung. Hal ini sebagai bentuk penghargaan dan rasa terima kasih kepada para tamu atas kedatangannya",
+        "picture": "https://i0.wp.com/idewedding.com/wp-content/uploads/2020/08/Tarian-Konsep-Tradisional-Pernikahan-Ini-Sarat-Makna-dan-Doa.jpg?resize=1080%2C720&ssl=1",
+        "youtube-link": "https://www.youtube.com/watch?v=hYKhfNulcho"
+    },
+    {
+        "name": "Tari piring",
+        "origin": "Minangkabau",
+        "description": "Tari piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Tari_Piring_di_Pesisir_Selatan.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=1O_OYwnV6iw"
+    },
+    {
+        "name": "Reog",
+        "origin": "Ponorogo",
+        "description": "Reog adalah tarian tradisional dalam arena terbuka yang berfungsi sebagai hiburan rakyat, mengandung unsur magis, penari utama adalah orang berkepala singa dengan hiasan bulu merak, ditambah beberapa penari bertopeng dan berkuda lumping.",
+        "picture": "https://cdn1-production-images-kly.akamaized.net/vcEUcYFbS0qkDxeauDy7KIIKqAM=/640x480/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1331586/original/042314600_1472472138-Reog_Ponorogo_di_Filiphina.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=u8mr-KMGtvE"
+    },
+    {
+        "name": "Tari Bedhaya Ketawang",
+        "origin": "Jawa Tengah",
+        "description": "Bedhaya Ketawang yang mengandung arti di setiap masing-masing kata. ‘bedhaya’ yang artinya penari wanita dan ‘ketawang’ artinya langit. Bila disatukan Bedhaya Ketawang ini mengandung arti penari wanita dari istana langit.",
+        "picture": "http://www.ragamseni.com/wp-content/uploads/2016/08/Tari-Bedhaya-Ketawang-300x200.jpg",
+        "youtube-link": "https://youtu.be/zlpoG5urKa4"
+    },
+    {
+        "name": "Tari Gambyong",
+        "origin": "Surakarta",
+        "description": "arian ini hanya sebuah tarian rakyat dan diadakan ketika memasuki musim panen padi. Sekarang, tarian tersebut diadakan saat acara sakral dan sebagai penghormatan pada tamu.",
+        "picture": "http://www.ragamseni.com/wp-content/uploads/2016/08/Tari-Gambyong-300x225.jpg",
+        "youtube-link": "https://youtu.be/VbFNTQHUMf8"
+    },
+    {
+        "name": "Tari Topeng Sinok",
+        "origin": "Brebes",
+        "description": "Tari Topeng Sinok adalah salah satu seni tari khas asal Brebes yang diciptakan oleh Suparyanto dari Dewan Kesenian Kabupaten Brebes yang menggambarkan perempuan yang cantik, luwes dan treingginas",
+        "picture": "https://3.bp.blogspot.com/-NIy-A7qr3so/TqVvIPIBWtI/AAAAAAAAAB8/1_lpEJTfnKE/s1600/sinok.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=7p6CAxk0NEw"
+    },
+    {
+        "name": "Tari Topeng Endel",
+        "origin": "Tegal",
+        "description": "Tari Topeng Endel merupakan tarian khas Tegal yang menggambarkan seorang wanita yang lenjeh atau genit.",
+        "picture": "https://m.ayotegal.com/images-tegal/post/articles/2019/02/28/267/tari_topeng_endel.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=eLA_WCMxNgM"
+    },
+    {
+        "name": "Tari Jaipong",
+        "origin": "Jawa Barat",
+        "description": "Tari Tradisional daerah Jawa Barat",
+        "picture": "data:image/jpeg;base64,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",
+        "youtube-link": "https://www.youtube.com/watch?v=U3At8IWbu9I&feature=share&app=desktop"
+    },
+    {
+        "name": "Tari Merak",
+        "origin": "Jawa Barat",
+        "description": "Tari Tradisional daerah Jawa Barat",
+        "picture": "https://sekolahnesia.com/wp-content/uploads/2020/02/Properti-Tari-Merak.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=d1jgyhk9JFs"
+    },
+    {
+        "name": "Wayang Kulit",
+        "origin": "Java, Bali, and Lombok in Indonesia",
+        "description": "Wayang kulit is a traditional form of puppet-shadow play originally found in the cultures of Java, Bali, and Lombok in Indonesia. In a wayang kulit performance, the puppet figures are rear-projected on a taut linen screen with a coconut-oil light.",
+        "picture": "https://1.bp.blogspot.com/-CcAIlX_rYeM/WnEsBMZnPWI/AAAAAAAAAJA/t30iZzN4FGoIR9ViYmKDDgLRUpqWWZNfgCLcBGAs/s1600/wayang%2Bkulit%2B1.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=cRA6kYaYu4k"
+    },
+    {
+        "name": "Tari Jaipong",
+        "origin": "Jawa Barat",
+        "description": "Jaipongan terlahir melalui proses kreatif dari tangan dingin H. Suanda sekitar tahun 1976 di Karawang, jaipongan merupakan garapan yang menggabungkan beberapa elemen seni tradisi Karawang seperti pencak silat, wayang golek, topeng banjet, ketuk tilu dan lain-lain.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Jaipongan_Langit_Biru_03.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=U3At8IWbu9I"
+    },
+    {
+        "name": "Tari Topeng",
+        "origin": "Jawa Barat",
+        "description": "Tari Topeng adalah tarian yang penarinya mengenakan topeng. Topeng telah ada di dunia sejak zaman pra-sejarah. Secara luas digunakan dalam tari yang menjadi bagian dari upacara adat atau penceritaan kembali cerita-cerita kuno dari para leluhur.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bali-Danse_0710a.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=CoG82D9JVbI"
+    },
+    {
+        "name": "rencong",
+        "origin": "Aceh",
+        "description": "Rencong (Aksara Jawoë : رنچوڠ) atau yang dalam Bahasa Aceh yang ditulis dengan huruf latin dibaca 'Rintjong' adalah senjata khas Suku Aceh. ",
+        "picture": "https://cdn-2.tstatic.net/tribunnewswiki/foto/bank/images/rencong.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=HfWrtgSy5ZI"
+    },
+    {
+        "name": "Abjad Jawi",
+        "origin": "jawa",
+        "description": "Abjad Jawi (Arab: جاوي Jawi) (atau Yawi di daerah Patani dan Jawoë di daerah Aceh Darussalam) adalah abjad Arab yang diubah untuk menuliskan Bahasa Melayu. Abjad ini digunakan sebagai salah satu dari tulisan resmi di Brunei, dan juga di Malaysia, Indonesia, Patani dan Singapura untuk keperluan religius dan pendidikan. ",
+        "picture": "https://i.pinimg.com/originals/c0/b2/74/c0b274353f757465931de1dd374c42e6.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=wpzbIOKCAPM"
+    },
+    {
+        "name": "Tari piring",
+        "origin": "Minangkabau",
+        "description": "Tari piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Tari_Piring_di_Pesisir_Selatan.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=1O_OYwnV6iw"
+    },
+    {
+        "name": "Reog",
+        "origin": "Ponorogo",
+        "description": "Reog adalah tarian tradisional dalam arena terbuka yang berfungsi sebagai hiburan rakyat, mengandung unsur magis, penari utama adalah orang berkepala singa dengan hiasan bulu merak, ditambah beberapa penari bertopeng dan berkuda lumping.",
+        "picture": "https://cdn1-production-images-kly.akamaized.net/vcEUcYFbS0qkDxeauDy7KIIKqAM=/640x480/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1331586/original/042314600_1472472138-Reog_Ponorogo_di_Filiphina.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=u8mr-KMGtvE"
+    },
+    {
+        "name": "Tari Kecak",
+        "origin": "Bali",
+        "description": "Kecak adalah pertunjukan dramatari seni khas Bali yang lebih utama menceritakan mengenai Ramayana dan dimainkan terutama oleh laki-laki.",
+        "picture": "https://lh3.googleusercontent.com/proxy/xsriUfyWNdHRhQ4H8xOkxZWE9YRfAYihBs2bJExZemIsg4RSAsjoacaFOQzpzxfvtlVNM71JrJwPEu59PfOeG8XeUeuo1EXDANjvyfBQyzizHYw4aIh65fzKt1kQLrIkl6JONSsZ_OYjqH6H_5An8rLeBug5TAUy",
+        "youtube-link": "https://www.youtube.com/watch?v=Kv-N1uFNIzw"
+    },
+    {
+        "name": "Ondel-Ondel",
+        "origin": "DKI Jakarta",
+        "description": "Ondel-ondel adalah bentuk pertunjukan rakyat Betawi yang sering ditampilkan dalam pesta-pesta rakyat.",
+        "picture": "https://assets-a1.kompasiana.com/items/album/2016/11/23/mg-6514-5834d3ca907e61540786da2e.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=yb_005XqxoM"
+    },
+    {
+        "name": "Tari Mandau",
+        "origin": "Kalimantan Tengah",
+        "description": "Tari Mandau adalah kesenian tari yang berasal dari suku Dayak, kota Palangkaraya, kabupaten Kalimantan Tengah. Dalam Tari Mandau menampilkan sebuah atraksi atau aksi memainkan senjata Mandau. Senjata Mandau ini merupakan sebuah senjata tradisional suku Dayak yang bentuknya menyerupai pedang atau parang",
+        "picture": "https://www.arsnewsy.com/wp-content/uploads/2019/10/FB_IMG_1571922757811-200x300.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=DbKAkFLutIg"
+    },
+    {
+        "name": "Sekaten",
+        "origin": "Yogyakarta",
+        "description": "Festival Sekaten adalah rangkaian kegiatan tahunan sebagai peringatan Maulid Nabi Muhammad yang diadakan oleh keraton Surakarta dan Yogyakarta. Rangkaian perayaan secara resmi berlangsung dari tanggal 5 dan berakhir pada tanggal 12 Mulud penanggalan Jawa",
+        "picture": "https://www.kotajogja.com/wp-content/uploads/2016/04/grebek-sekaten-9-1-1280x720.jpg",
+        "youtube-link": "https://youtu.be/WUeZ1oclWNc"
+    },
+    {
+        "name": "Karawitan",
+        "origin": "Jawa",
+        "description": "Karawitan adalah seni gamelan dan seni suara yang bertangga nada slendro dan pelog. Kesenian ini terkenal di Pulau Jawa dan Bali. Istilah karawitan berasal dari bahasa Jawa yaitu kata \"rawit\" yang berarti halus dan lembut. Jadi karawitan berarti kelembutan perasaan yang terkandung dalam seni gamelan.",
+        "picture": "https://2.bp.blogspot.com/-YWy9p1rTjTw/Vau3ERB1zuI/AAAAAAAABU4/grIpQHy22xY/w1200-h630-p-k-no-nu/karawitan.jpg",
+        "youtube-link": "https://youtu.be/p5pgPolmuKo"
+    },
+    {
+        "name": "Tari Bedhaya Ketawang",
+        "origin": "Jawa Tengah",
+        "description": "Tari Bedaya Ketawang (Bahasa Jawa: Bedhaya Ketawang, ꦨꦼꦝꦪꦑꦼꦠꦮꦁ) adalah sebuah tarian kebesaran yang hanya dipertunjukkan ketika penobatan serta Tingalandalem Jumenengan Sunan Surakarta (upacara peringatan kenaikan tahta raja). Nama Bedhaya Ketawang sendiri berasal dari kata bedhaya yang berarti penari wanita di istana. Sedangkan ketawang berarti langit, identik dengan sesuatu yang tinggi, keluhuran, dan kemuliaan.[1] Tari Bedhaya Ketawang menjadi tarian sakral yang suci karena menyangkut Ketuhanan, di mana segala sesuatu tidak akan terjadi tanpa kehendak Tuhan Yang Maha Esa",
+        "picture": "https://sekolahnesia.com/wp-content/uploads/2020/02/tari-bedhaya-ketawang-680x350.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=Ah6tIWDnMKs"
+    },
+    {
+        "name": "Gamelan Jawa",
+        "origin": "Jawa",
+        "description": "Gamelan Jawa adalah ensembel musik yang biasanya menonjolkan metalofon, gambang, gendang, dan gong. Musik yang tercipta pada Gamelan Jawa berasal dari paduan bunyi gong, kenong dan alat musik Jawa lainnya. Irama musik umumnya lembut dan mencerminkan keselarasan hidup, sebagaimana prinsip hidup yang dianut pada umumnya oleh masyarakat Jawa.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Traditional_indonesian_instruments02.jpg/375px-Traditional_indonesian_instruments02.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=BD39g1W_TZ0"
+    },
+    {
+        "name": "Keris",
+        "origin": "Jawa Tengah",
+        "description": "Keris adalah senjata tikam golongan belati (berujung runcing dan tajam pada kedua sisinya) dengan banyak fungsi budaya yang dikenal di kawasan Nusantara bagian barat dan tengah. Bentuknya khas dan mudah dibedakan dari senjata tajam lainnya karena tidak simetris di bagian pangkal yang melebar, sering kali bilahnya berkelok-kelok, dan banyak di antaranya memiliki pamor (damascene), yaitu terlihat serat-serat lapisan logam cerah pada helai bilah. ",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/b/be/Kris_and_scabbard.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=ML-kx09IeGc"
+    },
+    {
+        "name": "Tedhak Siten (Tedak Siten)",
+        "origin": "Jawa Tengah",
+        "description": "Tedhak siten adalah rangkaian prosesi adat tradisional dari tanah Jawa yang diselenggarakan pada saat pertama kali seorang anak belajar menginjakkan kaki ke tanah. Tedhak berarti menginjak, dan Siten artinya tanah. Biasanya dilakukan saat anak berusia sekitar tujuh atau delapan bulan. Tradisi ini dilaksanakan sebagai penghormatan kepada bumi tempat anak belajar menginjakkan kaki. Secara keseluruhan, upacara ini bermakna untuk mengajarkan anak tentang konsep kemandirian, tanggung jawab, tangguh dalam menghadapi persoalan, serta bersifat dermawan terhadap sesamanya ",
+        "picture": "https://cdn-image.hipwee.com/wp-content/uploads/2019/11/hipwee-Screen-Shot-2019-11-01-at-1.58.06-PM-640x424.png",
+        "youtube-link": "https://www.youtube.com/watch?v=L0uhwDdSjw8"
+    },
+    {
+        "name": "Mandau",
+        "origin": "Kalimantan Timur",
+        "description": "Mandau adalah senjata khas Suku Dayak",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/COLLECTIE_TROPENMUSEUM_Zwaard_met_gevest_van_been_schede_en_mesje_TMnr_391-120.jpg/350px-COLLECTIE_TROPENMUSEUM_Zwaard_met_gevest_van_been_schede_en_mesje_TMnr_391-120.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=UqU0_JQ00Yg"
+    },
+    {
+        "name": "Belian",
+        "origin": "Kalimantan Timur",
+        "description": "Belian adalah salah satu upacara adat oleh Suku Dayak Benuaq, Suku Dayak Tunjung, maupun Dayak Paser. Belian biasanya bertujuan untuk pengobatan",
+        "picture": "https://cdn-2.tstatic.net/kaltim/foto/bank/images/festival-seni-belian.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=fjD3B1-jGCI"
+    },
+    {
+        "name": "Kuda lumping",
+        "origin": "Jawa",
+        "description": "Kuda lumping juga disebut jaran kepang atau jathilan adalah tarian tradisional Jawa yang menampilkan sekelompok prajurit tengah menunggang kuda. Tarian ini berasal dari Ponorogo.",
+        "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.wikipedia.org%2Fwiki%2FKuda_lumping&psig=AOvVaw014iTJtSrYD_zRoHuEcV4O&ust=1602516604809000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDC5dztrOwCFQAAAAAdAAAAABAD",
+        "youtube-link": "https://youtu.be/oxi65vsnMiw"
+    },
+    {
+        "name": "Barongan",
+        "origin": "Jawa dan Bali",
+        "description": "Barongan atau Barong, adalah figur dalam mitologi Bali dan Jawa. Penampilannya digambarkan dalam berbagai bentuk samaran seperti binatang, dan yang paling terkenal dan dipuja dari semuanya adalah figur makhluk berkaki empat atau berkaki dua dengan kepala singa. ",
+        "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fshopee.co.id%2FBarongan-devil-i.17552261.2648928868&psig=AOvVaw3wwhx5_Yz6ozRNvT0mp8Mz&ust=1602516776220000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCQ063urOwCFQAAAAAdAAAAABAD",
+        "youtube-link": "https://www.youtube.com/watch?v=309Jl8uaf88"
+    },
+    {
+        "name": "Wayang Kulit",
+        "origin": "Jawa",
+        "description": "Wayang kulit adalah seni tradisional Indonesia yang terutama berkembang di Jawa. Wayang berasal dari kata Ma Hyang yang artinya menuju kepada roh spiritual, dewa, atau Tuhan Yang Maha Esa.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wayang_Performance.jpg/800px-Wayang_Performance.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=cRA6kYaYu4k"
+    },
+    {
+        "name": "Ngaben",
+        "origin": "Bali",
+        "description": "Ngaben merupakan salah satu upacara yang dilakukan oleh Umat Hindu di Bali yang tergolong upacara Pitra Yadnya (upacara yang ditunjukkan kepada Leluhur)",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ubud_Cremation_Procession_1.jpg/750px-Ubud_Cremation_Procession_1.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=Rc6E3d6gMBE"
+    },
+    {
+        "name": "Tari Kretek",
+        "origin": "Kudus",
+        "description": "Tari kretek merupakan sebuah tari asli Kudus yang menceritakan para buruh rokok yang sedang bekerja membuat rokok, mulai dari pemilihan tembakau hingga rokok siap dipasarkan.  ",
+        "picture": "https://i0.wp.com/komunitaskretek.or.id/wp-content/uploads/2016/12/tari-kretek.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=qBXa8mA7miI"
+    },
+    {
+        "name": "Fahombo Nias",
+        "origin": "Nias",
+        "description": "Fahombo, Hombo Batu atau dalam bahasa Indonesia Lompat Batu adalah olahraga tradisional Suku Nias. Olahraga yang sebelumnya merupakan ritual pendewasaan  ",
+        "picture": "https://2.bp.blogspot.com/-E56Fhua-WkI/UgFoVMDm-FI/AAAAAAAABJg/2tMHkNT8lEU/s1600/lompat+batu+nias.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=_EeOhbADyrY"
+    },
+    {
+        "name": "Tari Sintren",
+        "origin": "Jawa Tengah",
+        "description": "Sintren adalan kesenian tari tradisional masyarakat Jawa, khususnya di Cirebon. Kesenian ini terkenal di pesisir utara Jawa Barat dan Jawa Tengah, antara lain di Indramayu, Cirebon, Subang utara, Majalengka, Jatibarang, Brebes, Pemalang, Tegal, Banyumas, Kuningan, dan Pekalongan.",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQuKYLMJMKo2g7tMI0ovuIqe7zEjE0drqKMoQ&usqp=CAU",
+        "youtube-link": "https://m.youtube.com/watch?v=H5zBH524E-U"
+    },
+    {
+        "name": "Wayang Golek",
+        "origin": "Jawa",
+        "description": "Wayang golek merupakan salah satu dari ragam kesenian wayang, yang berasal dari masyarakat Sunda di Jawa Barat. Pertunjukan seni wayang golek merupakan seni pertunjukan teater rakyat yang banyak dipagelarkan",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJt1ToR6vfvUitM5emuymu6QKtlKrFH-j0ug&usqp=CAU",
+        "youtube-link": "https://m.youtube.com/watch?v=4xC8hDoLkYI"
+    },
+    {
+        "name": "Degung",
+        "origin": "Jawa Barat",
+        "description": "Degung adalah alat tradisional Bandung dan sudah terkenal di penjuru Indonesia",
+        "picture": "https://s2.bukalapak.com/img/2661621721/large/gamelan_degung_.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=pRtyKX2fZ68"
+    },
+    {
+        "name": "Kacapi Suling",
+        "origin": "Jawa Barat",
+        "description": "Kacapi Suling adalah suatu kotak resonansi yang bagian bawahnya diberi lubang resonansi untuk memungkinkan suara keluar. Sisi-sisi jenis kacapi ini dibentuk sedemikian rupa sehingga menyerupai perahu. Pada masa lalu, kacapi ini dibuat langsung dari bongkahan kayu dengan memahatnya.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Kacapi-tuners.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=Zs3mI1qKkvY"
+    },
+    {
+        "name": "Tari Tanggai",
+        "origin": "Sumatera Selatan, Palembang",
+        "description": "Tari tanggai adalah sebuah tarian yang disajikan untuk menyambut tamu yang telah memenuhi undangan.",
+        "picture": "https://seringjalan.com/wp-content/uploads/2020/06/tari-tanggai-kelambitcom.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=VpnNXJe-TIQ"
+    },
+    {
+        "name": "Karapan Sapi",
+        "origin": "Madura, Jawa Timur",
+        "description": "Karapan sapi merupakan istilah untuk menyebut perlombaan pacuan sapi yang berasal dari Pulau Madura, Jawa Timur.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Madura_bull_racing_1999-cropped.jpeg/330px-Madura_bull_racing_1999-cropped.jpeg",
+        "youtube-link": "https://www.youtube.com/watch?v=upg4d3GlIj8"
+    },
+    {
+        "name": "Tari Muang Sangkal",
+        "origin": "Madura, Jawa Timur",
+        "description": "Tari Moang Sangkal merupakan salah satu icon seni tari di Madura, secara harfiah kata moang sangkal terdiri dari dua kata Mowang berarti membuang, dan kata Sangkal berarti sukerta yang artinya gelap.",
+        "picture": "https://seringjalan.com/wp-content/uploads/2020/04/Tari-Muang-Sangkal-Madura-1200x675-1024x576.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=ETl0mlcrnjA"
+    },
+    {
+        "name": "Tari Gending Sriwijaya",
+        "origin": "Palembang, Sumatera Selatan",
+        "description": "Tari Gending Sriwijaya merupakan seni tari dari Sumatera Selatan yang digelarkan 9 penari muda dan cantik-cantik yang berbusana Adat Aesan Gede, Selendang Mantri, paksangkong, Dodot dan Tanggai. Mereka merupakan penari inti yang dikawal dua penari lainnya membawa payung dan tombak. Sedang di belakang sekali adalah penyanyi Gending Sriwijaya.",
+        "picture": "https://mmc.tirto.id/image/2017/03/25/1__Tari_Gending_Sriwijaya_merupakan_tarian_kolosal_peninggalan_Kerajaan_Sriwijaya_ratio-4x3.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=upg4d3GlIj8"
+    },
+    {
+        "name": "Teater Dulmuluk",
+        "origin": "Palembang, Sumatera Selatan",
+        "description": "Teater Dulmuluk adalah teater tradisional Sumatera Selatan yang lahir di Kota Palembang. Awal mula terbentuknya teater ini adalah berupa pembacaan syair oleh Wan Bakar yang membacakan tentang syair Abdul Muluk disekitar rumahnya di Tangga Takat 16 Ulu pada tahun 1854.",
+        "picture": "https://lemabang.files.wordpress.com/2012/12/dulmuluk.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=DECKZgfaDOI"
+    },
+    {
+        "name": "Tari Serampang Dua Belas",
+        "origin": "Serdangbedagai, Sumatera Utara",
+        "description": "Tarian ini dibawakan berpasangan antara pria dan wanita yang mendeskripsikan proses kehidupan antara sepasang kekasih mulai dari perkenalan, jatuh cinta sampai menikah. Disebut Tari Serampang Dua Belas karena ada dua belas ragam gerakan dalam tarian ini yang dilakukan dengan cepat. Tarian ini diiringi musik tradisional Melayu seperti kecapi dan rebana.",
+        "picture": "https://obs.line-scdn.net/0hyFy8IFALJmlEQQmV_UNZPn0XJQZ3LTVqIHd3dxQveF1heTJsfSNtDzNIfwlsdmE3LSRhD2YEeV48dzRsfSM/w1200",
+        "yotube-link": "https://www.youtube.com/watch?v=7BzMCMSL10Y"
+    },
+    {
+          "name" : "Tari Barong",
+          "origin" : "Bali",
+          "description" : "Tari Barong adalah salah satu tarian yang berasal dari Bali yang menceritakan tentang mitologis gambaran binatang beruang yang memiliki kekuatan gaib dan dianggap dapat melindungi manusia",
+          "picture" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Kesenian_tari_Barong_Bali.jpg/220px-Kesenian_tari_Barong_Bali.jpg",
+          "youtube-link" : "https://www.youtube.com/watch?v=NtvAi_U3tyE"
+    },
+    {
+          "name" : "Tari Dolalak",
+          "origin" : "Purworejo",
+          "description" : "Dolalak adalah kesenian khas dari Kabupaten Purworejo. Tarian ini merupakan peninggalan pada zaman penjajahan Belanda. Asal kata Dolalak adalah dari not Do dan La karena tarian ini diiringi hanya dengan alat musik dua nada menggunakan sepasang Kenong.",
+          "picture" : "https://asset.kompas.com/crop/0x10:1080x730/750x500/data/photo/2019/08/09/5d4cfba416574.jpg",
+          "youtube-link" : "https://www.youtube.com/watch?v=1YCuPh84RBs"
+    },
+    {
+        "name": "Tari Jaipong Sunda",
+        "origin": "Jawa Barat, Indonesia",
+        "description": "Tari Jaipong adalah sebuah jenis tari pergaulan tradisional masyarakat Sunda, karawang, Jawa Barat, yang sangat populer di Indonesia.",
+        "picture": "http://3.bp.blogspot.com/-5-X_lMoC4Bg/VT-4kcTlbKI/AAAAAAAAAww/os5CfnX9FOo/s1600/jaipong11.jpg",
+        "youtube-link": "https://www.youtube.com/watch?v=DoLRv-WknXU"
+    }
+]
+
+
